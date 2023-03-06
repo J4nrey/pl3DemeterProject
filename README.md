@@ -1,2 +1,2 @@
 # pl3DemeterProject
-/*hehe*/
+/*This program assists the user tracking their monetary expenses and gains. The program would include a user sign up and log in to keep track of previous and present expenses and Income, it will give an overview on the total expenses and Income for the month. There will aslo be categories to separate expenses and Income,  the user will also be able  to rename the categories to their preference. The program will also notify the user if ever they go over their budget on the particular category. The currency can also be converted among the currencies stated into the users main choice of currency. */
