@@ -13,3 +13,7 @@ Features:
 - Overview of Budget per Category
 - Notify the user if ever go over the budget on the particular category
 - Currency can be converted among the currencies stated in the users main choice of currency.
+
+
+video tutorial
+https://youtu.be/J4ER1P186Mc
