@@ -15,5 +15,5 @@ Features:
 - Currency can be converted among the currencies stated in the users main choice of currency.
 
 
-video tutorial: 
+program demonstration: 
 https://youtu.be/J4ER1P186Mc
